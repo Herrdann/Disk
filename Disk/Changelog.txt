@@ -18,4 +18,4 @@
 0.15        subject implementation ready
 0.16        started subject implementation
 0.16.1      First wave of subjects implemented (PEF-INFO-semester 1)
-0.16.2      FTZ added
+0.16.2      FTZ added s
