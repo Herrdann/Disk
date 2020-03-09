@@ -1,0 +1,39 @@
+Jemny uvod do tohoto projektu a co je jeste treba:
+
+1) pojmenovat predmet podle PEF.html
+2) implementace vzoru predmetu do KAZDEHO oboru KAZDE fakulty
+3) rozdeleni na semestr???
+4) prubezne doplnovat informace o ucitelich a predelavat texty „Jak na tento predmet?“
+5) procistit Google Disk, zbavit se nepotrebneho
+6) doc → pdf pro usporu mistagit e
+
+
+
+Implementace vzoru predmetu, na co dat pozor:
+Prepsat radky:
+9 - Title (nazev predmetu)
+34,43,51,59 - icon color-X (cislo podle fakulty, viz nize) *
+70 - color-X* + text podle svych vlastnich pocitu, ale aby to bylo uzitecny
+77,78 - color-X* + opet popis
+Dalsi sekce se da individualne upravovat, doporucuju se naucit seznamy v HTML...:
+93 - kde je <li>, tak podle prvniho radku doplnit odkaz na material na Google Disku
+94-102,108-112,115,124,127 podle vzoru 93
+139,235, - color-X*
+
+Vzdy po implementaci zkontrolovat udaje a otestovat spravnou funkcnost (pridat do HTML stranky oboru proklik na predmet atd.)
+a pote do excel tabulky nahrat hotovy predmet
+
+
+vysledek, popr. chyby; odladi se
+
+Cisla fakult:
+1 - PEF
+2 - FLD
+3 - TF
+4 - FAPPZ
+5 - FZP
+6 - FTZ
+
+
+Rozdeleni na semestry
+- Zatim bych nechal takhle, na GDisku si zatim nikdo nestezoval, prinejhorsim dodelame
